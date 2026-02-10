@@ -2,7 +2,7 @@
 
 Most of my work is currently private. 
 
-Check out my website for some examples of what I do
+Check out my website to learn more about my research!
 
 https://jenlynngiordano.github.io/
 <!--
