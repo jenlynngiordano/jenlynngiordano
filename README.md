@@ -1,5 +1,7 @@
 ## welcome 👋
 
+Most of my work is currently private. Check out my website for some examples of what I do
+https://jenlynngiordano.github.io/
 <!--
 **jenlynngiordano/jenlynngiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
